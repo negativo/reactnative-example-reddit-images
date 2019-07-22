@@ -1,0 +1,3 @@
+rootProject.name = 'RedditImages'
+
+include ':app'

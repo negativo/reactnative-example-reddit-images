@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "start-reset": "react-native start -- --reset-cache",
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "metro-config": "^0.55.0",
+    "moment": "^2.24.0",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.59.8",
+    "react-native-axios": "^0.17.1",
+    "react-native-elements": "^1.1.0",
+    "react-native-fontawesome": "^6.0.1",
+    "react-native-vector-icons": "^6.3.0",
+    "react-native-web": "^0.11.4",
+    "react-native-webview": "^5.12.1",
+    "react-redux": "^7.1.0",
+    "redux-saga": "^1.0.5",
+    "watchman": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1",
+    "metro": "^0.55.0",
+    "metro-react-native-babel-preset": "^0.55.0"
+  },
+  "private": true
+}

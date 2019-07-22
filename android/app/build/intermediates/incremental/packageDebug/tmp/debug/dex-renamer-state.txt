@@ -1,0 +1,4 @@
+#Mon Jul 22 20:04:32 CEST 2019
+base.0=/Users/negativo/Code/RedditImages/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
